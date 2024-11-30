@@ -1,8 +1,6 @@
-# TidySimStat
+# Stochastic Simulation in MATLAB/Python
 
-Stochastic Simulation and Statistics in Tidyverse
-
-## 1. What can it do?
+## TOC
 
 - [ ] Random Number Generation
 - [x] Statistical Test
@@ -14,12 +12,8 @@ Stochastic Simulation and Statistics in Tidyverse
 - [x] Annealing Mat-heuristics Optimization
 - [x] Bootstrap
 
-## 2. New Algorithm
-
-### 2-1. Array the 2-D Irregular Sample Space for 8-Direction Random Walk
-
-The algorithm and analysis is shared in [edxu96/RandomWalk2dim.m](https://gist.github.com/edxu96/a506b784d1a8864a188a8aa3ce49cc4d).
+## 2-D Irregular Sample Space for 8-Direction Random Walk
 
 The result from MCMC simulation using Gibbs Sampler and sample space processed by this algorithm is quite satisfying. The red points indicate the theoretical values, which are almost all the same as the simulation results.
 
-![Queue Simulation using MCMC Gibbs Sampler](/results/6/2.png)
+![Queue Simulation using MCMC Gibbs Sampler](./matlab/results/6/2.png)
