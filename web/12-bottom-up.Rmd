@@ -1,8 +1,0 @@
----
-editor_options:
-  chunk_output_type: console
----
-
-# Bottom-Up Simulation of Occupants' States
-
-> This model can be used as a tool to simulate the status quo of the residential sector and, ultimately, evaluate the impact of energy policies and different technology adoption and deployment scenarios on energy use, cost, and emissions. The proposed model can also be used as an input to detailed power system simulations, for instance determining the impacts of diurnal load patterns and renewable uncertainty and variability on day-ahead and real-time unit commitment, dispatch, and power flows. High model resolution is needed to make the model suitable to be used for such analysis. This framework allows consumers to compare costs and benefits with different load schedules and enables energy consumers to participate actively in energy markets. It can also help utilities evaluate the use of price signals as a means of shaping the electricity load in order to reduce production costs and make demand more flexible to facilitate the integration of renewable energy sources. Moreover, the proposed model can be used as an input to long-term capacity planning and expansion studies. Depending on the specific end application, the model may be used to generate a load profile for an individual household, or the load profiles of multiple buildings may be aggregated to simulate the load of a broader system. [@muratori2013highly]

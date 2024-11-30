@@ -1,9 +1,0 @@
-
-## Parameter Constancy / Stationarity {#constancy}
-
-- [What is the distinction between ergodic and stationary?](https://dsp.stackexchange.com/questions/1167/what-is-the-distinction-between-ergodic-and-stationary)
-- [Is strict stationarity a sufficient condition for ergodicity?](https://stats.stackexchange.com/questions/325536/is-strict-stationarity-a-sufficient-condition-for-ergodicity)
-
-### Recursive Graphics
-
-> Recursive graphics can be used to check how constant the model’s parameter estimates are over time. [@hendry2007econometric]

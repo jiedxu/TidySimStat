@@ -1,8 +1,0 @@
----
-editor_options:
-  chunk_output_type: console
----
-
-## Factor {#factor}
-
-- section 1.6 practical modelling with factors in [@wood2017generalized].
